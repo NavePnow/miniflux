@@ -93,6 +93,7 @@
         "Są %d kanały.",
         "Jest %d kanałów."
     ],
+    "page.categories.unread_counter": "Liczba nieprzeczytanych wpisów",
     "page.new_category.title": "Nowa kategoria",
     "page.new_user.title": "Nowy użytkownik",
     "page.edit_category.title": "Edycja Kategorii: %s",
@@ -278,6 +279,7 @@
     "form.feed.label.fetch_via_proxy": "Pobierz przez proxy",
     "form.feed.label.disabled": "Не обновлять этот канал",
     "form.category.label.title": "Tytuł",
+    "form.category.hide_globally": "Ukryj wpisy na globalnej liście nieprzeczytanych",
     "form.user.label.username": "Nazwa użytkownika",
     "form.user.label.password": "Hasło",
     "form.user.label.confirmation": "Potwierdzenie hasła",

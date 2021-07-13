@@ -92,6 +92,7 @@
         "Hay %d fuente.",
         "Hay %d fuentes."
     ],
+    "page.categories.unread_counter": "Número de entradas no leídas",
     "page.new_category.title": "Nueva categoría",
     "page.new_user.title": "Nuevo usario",
     "page.edit_category.title": "Editar categoría: %s",
@@ -276,6 +277,7 @@
     "form.feed.label.fetch_via_proxy": "Buscar a través de proxy",
     "form.feed.label.disabled": "No actualice este feed",
     "form.category.label.title": "Título",
+    "form.category.hide_globally": "Ocultar entradas en la lista global de no leídos",
     "form.user.label.username": "Nombre de usuario",
     "form.user.label.password": "Contraseña",
     "form.user.label.confirmation": "Confirmación de contraseña",

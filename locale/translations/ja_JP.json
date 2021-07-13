@@ -92,6 +92,7 @@
         "%d 個の記事があります。",
         "%d 個の記事があります。"
     ],
+    "page.categories.unread_counter": "未読記事の数",
     "page.new_category.title": "新規カテゴリ",
     "page.new_user.title": "新規ユーザー",
     "page.edit_category.title": "カテゴリーを編集: %s",
@@ -276,6 +277,7 @@
     "form.feed.label.fetch_via_proxy": "プロキシ経由でフェッチ",
     "form.feed.label.disabled": "このフィードを更新しない",
     "form.category.label.title": "タイトル",
+    "form.category.hide_globally": "グローバル未読リストのエントリーを隠す",
     "form.user.label.username": "ユーザー名",
     "form.user.label.password": "パスワード",
     "form.user.label.confirmation": "パスワード確認",
